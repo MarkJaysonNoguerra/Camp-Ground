@@ -21,6 +21,7 @@
 @media (max-width: 40rem) {
   .jumbotron {
   	text-align: center;
+    margin : 20px;
  
   }
   .container-form {
