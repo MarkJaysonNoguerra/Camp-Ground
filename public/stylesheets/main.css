@@ -13,3 +13,22 @@
 .delete-form {
 	display : inline;
 }
+.container-form {
+	width:30%; 
+	margin : 25px auto;
+}
+
+@media (max-width: 40rem) {
+  .jumbotron {
+  	text-align: center;
+ 
+  }
+  .container-form {
+  	width : 70%;
+  	margin : 50px auto;
+
+  }
+  .comment-text input {
+   	left : 0;
+  }
+}
